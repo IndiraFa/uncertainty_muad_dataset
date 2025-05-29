@@ -6,4 +6,4 @@ You will find 2 notebooks in this repo :
 
 Each notebook has an associated pdf file that was generated from the notebook. 
 
-You will also find the Unet Trained in the first part during 50 epochs (unet_final.pth) and the training history(training_history.csv)
+You will also find the Unet trained in the first part during 50 epochs (unet_final.pth) and the training history with losses and mean IoU values (training_history.csv).
